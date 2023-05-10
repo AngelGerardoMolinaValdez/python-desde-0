@@ -18,22 +18,22 @@ Los tipos de datos simples son aquellos valores que no representan una estructur
 definir como simples los siguientes tipos:
 
 - Numeros
-    - Enteros
-    - Decimales
-    - Complejos
+    - Enteros(int)
+    - Decimales(float)
+    - Complejos(complex)
 - Logicos
-    - Falso
-    - Verdadero
+    - Falso(False)
+    - Verdadero(True)
 - Caracteres
-    - Cadenas
+    - Cadenas(str)
 
 Por otra parte los tipos de datos compuestos, son aquellos que se conforman por una estructura compleja, dicha estructura permite almacenar mas de 1 tipo de dato simple en su contenido y acceder
 a ellos cuando se requieran, entre los que podemos encontrar
 
-- Listas
-- Tuplas
-- Conjuntos
-- Diccionarios
+- Listas(list)
+- Tuplas(tuple)
+- Conjuntos(set)
+- Diccionarios(dict)
 
 
 Dicho esto, comencemos a picar codigo!!!
